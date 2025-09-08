@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome
 
-This is the landing page for **SMotlagh**'s research site. Replace this section with your short bio, current projects, and what visitors should check out first.
+This is the landing page for S Yousef Oleyaeimotlagh's research site. I will fill in this section with my short bio, current projects, and what visitors should check out first.
 
 <nav style="margin-top:0.5rem">
   <a href="{{ site.baseurl }}/">Home</a> ·
@@ -19,8 +19,6 @@ This is the landing page for **SMotlagh**'s research site. Replace this section 
 
 ## Highlights
 
-- Focus areas: (fill in)
+- Focus areas: 
 - [CV (PDF)]({ site.baseurl }/assets/pdf/CV.pdf)
-- Contact: [email](mailto:EMAIL_HERE)
-
-> Tip: Edit this page at `index.md`.
+- Contact: [seo77[@]pitt[dot].edu](mailto:EMAIL_HERE)

@@ -20,5 +20,5 @@ This is the landing page for S Yousef Oleyaeimotlagh's research site. I will fil
 ## Highlights
 
 - Focus areas: 
-- [CV (PDF)]({{ site.url }}}/assets/pdf/CV.pdf)
+- [CV (PDF)]({{ site.url }}/assets/pdf/CV.pdf)
 - Contact: [seo77[@]pitt[dot]edu](mailto:EMAIL_HERE)

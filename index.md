@@ -21,4 +21,4 @@ This is the landing page for S Yousef Oleyaeimotlagh's research site. I will fil
 
 - Focus areas: 
 - [CV (PDF)]({{ site.url }}/assets/pdf/CV.pdf)
-- Contact: [seo77[@]pitt[dot]edu](mailto:EMAIL_HERE)
+- Contact: [s[dot]y[dot]o[dot]motlagh[@]gmail[dot]com](mailto:s.y.o.motlagh@gmail.com)
